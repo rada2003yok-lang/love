@@ -1,0 +1,8 @@
+{
+  "name": "Mimi Love - เว็บบอกรักแฟนสุดคิวท์",
+  "description": "สร้างการ์ดบอกรักแฟน สไตล์ Mimi Y2K พร้อมคลังลายพื้นหลังสุดน่ารัก เพลง และสติกเกอร์ตกแต่ง ส่งให้แฟนได้ทันที",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
